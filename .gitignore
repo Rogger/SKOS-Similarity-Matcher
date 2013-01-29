@@ -3,6 +3,7 @@
 *.classpath
 *.metadata
 *.project
+*.target
 
 # Package Files #
 *.jar
